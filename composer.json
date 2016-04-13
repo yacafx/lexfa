@@ -1,0 +1,12 @@
+{
+    "name": "yacafx/new",
+    "description": "Pa prbar con buddy",
+    "authors": [
+        {
+            "name": "yacaFx",
+            "email": "sergiobritor@gmail.com"
+        }
+    ],
+    "minimum-stability": "RC",
+    "require": {}
+}
